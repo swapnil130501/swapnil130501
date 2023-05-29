@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🥅 2021 Goals: Contribute more to Open Source projects and get an internship
+- 🌱 I’m currently learning Backend development.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar / cricket
 
 
