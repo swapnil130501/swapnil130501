@@ -1,6 +1,6 @@
 ### Hi there, I'm Swapnil Lohani 👋
 
-## I'm a Student and Developer!!
+## I'm a Student and a Developer!!
 
 - 🌱 I’m currently learning Backend development.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
